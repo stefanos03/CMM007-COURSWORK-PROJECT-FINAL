@@ -77,7 +77,7 @@ ini_set('display_errors', 1);
                  <h3 class="text-left price-headline" style="color:white; margin-left: 500px; margin-bottom: 40px">Create Project</h3>
               <div class="form-group row" style="margin-left: 200px">
             
-                   <label for="Project Name" class="col-xs-12 col-sm-2 col-form-label text-right" style="color: white">Project Name</label>
+                   <label for="Project Name" class="col-xs-12 col-sm-2 col-form-label text-right" style="border: 2px solid white; padding:3px; margin-right: 10px;color: white">Project Name</label>
                       
                     <div class="col-xs-12 col-sm-5">
                         
@@ -87,7 +87,7 @@ ini_set('display_errors', 1);
               </div>
               <div class="form-group row" style="margin-left: 200px">
                   
-                  <label for="Project Short Name"  class="col-xs-12 col-sm-2 col-form-label text-right" style="color: white">Project Code</label>
+                  <label for="Project Short Name"  class="col-xs-12 col-sm-2 col-form-label text-right" style="border: 2px solid white; padding:3px; position: center;  color: white">Project Code</label>
                   
                   <div class="col-xs-12 col-sm-5">
                       <input class="form-control" type="text" name="shortname"/>
